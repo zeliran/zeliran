@@ -10,7 +10,7 @@ function setup() {
   const points = font.textToPoints('Zorba Dance', 10, 170, 150, {
     sampleFactor: 0.4,
   })
-  const points2 = font.textToPoints('EZ', 400, 220, 80, {
+  const points2 = font.textToPoints('keep it EZ', 310, 220, 60, {
     sampleFactor: 0.4,
   })
   for (let ii = 0; ii < points.length; ii++) {
