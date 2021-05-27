@@ -4,7 +4,7 @@ let srctxt
 
 function preload() {
   font = loadFont('AvenirNextLTPro-Demi.otf')
-  srctxt = loadStrings('rainbow.txt');
+  srctxt = loadStrings('README.md');
 }
 
 function setup() {
