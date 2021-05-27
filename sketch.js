@@ -1,11 +1,14 @@
-var font
-var vehicles = []
+let font
+let vehicles = []
+let srctxt
 
 function preload() {
   font = loadFont('AvenirNextLTPro-Demi.otf')
+  srctxt = loadStrings('rainbow.txt');
 }
 
 function setup() {
+  console.log(srctxt)
   createCanvas(920, 250)
   var points = font.textToPoints('Zorba Dance', 10, 170, 150, {
     sampleFactor: 0.4,
