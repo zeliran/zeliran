@@ -8,8 +8,8 @@ function preload() {
 }
 
 function setup() {
-  console.log(srctxt)
   createCanvas(920, 250)
+  createDiv(srctxt)
   var points = font.textToPoints('Zorba Dance', 10, 170, 150, {
     sampleFactor: 0.4,
   })
