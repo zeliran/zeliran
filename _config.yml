@@ -13,8 +13,8 @@ remote_theme:
 #   pages-themes/leap-day@v0.2.0
 #   pages-themes/merlot@v0.2.0
 #   pages-themes/midnight@v0.2.0
-    pages-themes/minima@v0.2.0
-#   pages-themes/minimal@v0.2.0
+#DNU     pages-themes/minima@v0.2.0
+  pages-themes/minimal@v0.2.0
 #   pages-themes/modernist@v0.2.0
 #   pages-themes/slate@v0.2.0
 #   pages-themes/tactile@v0.2.0
